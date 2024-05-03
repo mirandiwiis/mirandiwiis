@@ -9,9 +9,9 @@ Hi, I'm Miranda, a Frontend developer from Spain.
   
 - 🔭 I’m currently working on **ArtViewer**. A platform that provides a seamless interface for exploring a diverse artistic masterpieces.
 
-- 🌱 I’m learning **JavaScript, TypeScript, React, Vue**
+- 🌱 I’m learning **JavaScript, TypeScript, React, Vue.**
   
-- 📝 I want to learn **Angular**
+- 📝 I want to learn **Angular.**
 
 - ⚡ Fun fact: **Big fan of Rubik's Cube.**
 
