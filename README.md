@@ -11,7 +11,7 @@ Hi, I'm Miranda, a Frontend developer from Spain.
 
 - 🌱 I’m learning **JavaScript, TypeScript, React.**
   
-- 📝 I want to learn **Angular, Three.js.**
+- 📝 I want to learn **Node.js, Three.js.**
 
 - ⚡ Fun fact: **Big fan of Rubik's Cube.**
 
